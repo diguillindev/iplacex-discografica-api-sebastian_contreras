@@ -1,2 +1,2 @@
 # iplacex-discografica-api-sebastian_contreras
- API-REST Spring Discografica 
+API REST Spring para administración de discografías favoritas de empleados de IPLACEX
